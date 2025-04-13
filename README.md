@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Mehmood ul Hassan👋<a href="https://github.com/hassanshiekh19/"></h1>
   </div>
 <p align="center">
-lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/hassanshiekh19"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 
 	
 👨‍💻 AI Engineer CargoAI
