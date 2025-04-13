@@ -76,7 +76,8 @@
 </table>
 </p>
 <p align="center">
-<a href=https://www.linkedin.com/in/mehmood-ul-hassan-1a82651b6/"><img src="https://img.shields.io/badge/-mehmood-ul-hassan-1a82651b6-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href=https://www.linkedin.com/in/mehmood-ul-hassan-1a82651b6/"><img src="https://img.shields.io/badge/SheikhHassan-%20Hassan%20Hassan
+?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hassan.shiekh147@gmail.com"><img src="https://img.shields.io/badge/-hassan.shiekh147@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/oye.hassan/"><img src="https://img.shields.io/badge/-@oye.hassan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
