@@ -10,7 +10,7 @@
 	
 💸 Help 80+ Clients via Generative AI & Automation
 
-📧 Book free 1v1 consultation https://linktr.ee/hammadbinnadeem
+📧 Book free 1v1 consultation https://www.linkedin.com/in/mehmood-ul-hassan-1a82651b6/
  
 <h2>Tech Stack</h2>
 
@@ -78,7 +78,7 @@
 <p align="center">
 <a href=https://www.linkedin.com/in/mehmood-ul-hassan-1a82651b6/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hassan.shiekh147@gmail.com"><img src="https://img.shields.io/badge/-hassan.shiekh147@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/oye.hassan/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/oye.hassan/"><img src="https://img.shields.io/badge/-@oye.hassan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
  
 <br>
